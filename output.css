@@ -280,4 +280,33 @@ ytmusic-item-section-tab-renderer[selected=true] yt-formatted-string {
   border-bottom: 2px solid black !important;
 }
 
+.ytmusic-app-layout{
+  background: white !important;  
+}
+.ytmusic-item-section-renderer{
+  background: white !important;  
+}
+.style-scope.paper-input{
+ background: #eeeeee !important;
+ color: #212121 !important;
+}
+.dropdown-content.style-scope.ytmusic-dropdown-renderer{
+  background: white !important;
+  color: #212121 !important;  
+}
+.style-scope.ytmusic-dropdown-renderer{
+  background: white !important;
+  color: #212121 !important;    
+}
+.style-scope.ytmusic-dropdown-renderer.iron-selected{
+  background: #eeeeee !important;
+  color: #212121 !important;
+}
+ytmusic-dropdown-item-renderer.style-scope.ytmusic-dropdown-renderer:hover{
+    background: #eeeeee !important;
+}
+div.input-wrapper.style-scope.paper-input-container{
+    padding-left: 10px;
+}
+
 /*# sourceMappingURL=output.css.map */
